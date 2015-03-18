@@ -1,5 +1,5 @@
 {
-    "description": "North American cellular carrier networks. Not guaranteed to be complete or accurate.",
+    "description": "North American wireless carrier networks. Not guaranteed to be complete or accurate.",
     "networks" : [
         {
             "carrier" : "Verizon Wireless",
@@ -56,16 +56,8 @@
             "country": "US",
             "networks": [
                 {
-                    "start": "166.128.0.0",
-                    "end": "166.217.255.255"
-                },
-                {
                     "start": "155.170.0.0",
                     "end": "155.170.205.225"
-                },
-                {
-                    "start": "166.213.0.0",
-                    "end": "166.220.255.255"
                 }
             ]
         },
