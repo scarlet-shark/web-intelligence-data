@@ -3140,5 +3140,1749 @@
                 }
             ]
         },
+        {
+            "name" : "University at Albany",
+            "country": "US",
+            "domain": "albany.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "169.226.0.0",
+                    "end":   "169.226.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2620:89:8000::",
+                    "end":   "2620:89:8000:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+
+            ]
+        },
+        {
+            "name" : "University at Buffalo",
+            "country": "US",
+            "domain": "buffalo.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.205.0.0",
+                    "end":   "128.205.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Akron",
+            "country": "US",
+            "domain": "uakron.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.101.0.0",
+                    "end":   "130.101.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Alabama",
+            "country": "US",
+            "domain": "ua.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.160.0.0",
+                    "end":   "130.160.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Alaska",
+            "country": "US",
+            "domain": "alaska.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.229.0.0",
+                    "end":   "137.229.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Alberta",
+            "country": "CA",
+            "domain": "ualberta.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.128.0.0",
+                    "end":   "129.128.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Arkansas",
+            "country": "US",
+            "domain": "uark.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.184.0.0",
+                    "end":   "130.184.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Arkansas - Fort Smith",
+            "country": "US",
+            "domain": "uafs.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "University of California Office of the President",
+            "country": "US",
+            "domain": "ucop.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.48.0.0",
+                    "end":   "128.48.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Berkeley",
+            "country": "US",
+            "domain": "berkeley.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "169.229.0.0",
+                    "end":   "169.229.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2607:F140::",
+                    "end":   "2607:F140:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Davis",
+            "country": "US",
+            "domain": "ucdavis.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.120.0.0",
+                    "end":   "128.120.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Irvine",
+            "country": "US",
+            "domain": "uci.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.195.0.0",
+                    "end":   "128.195.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Los Angeles",
+            "country": "US",
+            "domain": "ucla.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.97.0.0",
+                    "end":   "128.97.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2607:F010::",
+                    "end":   "2607:F010:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Merced",
+            "country": "US",
+            "domain": "ucmerced.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "169.236.0.0",
+                    "end":   "169.236.255.255"
+                },
+                {
+                    "version": 4,
+                    "start": "192.35.211.0",
+                    "end":   "192.35.211.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Riverside",
+            "country": "US",
+            "domain": "ucr.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "138.23.0.0",
+                    "end":   "138.23.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, San Diego",
+            "country": "US",
+            "domain": "ucsd.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "132.239.0.0",
+                    "end":   "132.239.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, San Francisco",
+            "country": "US",
+            "domain": "ucsf.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "64.54.0.0",
+                    "end":   "64.54.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Santa Barbara",
+            "country": "US",
+            "domain": "ucsb.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.111.0.0",
+                    "end":   "128.111.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of California, Santa Cruz",
+            "country": "US",
+            "domain": "ucsc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.114.0.0",
+                    "end":   "128.114.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Chicago",
+            "country": "US",
+            "domain": "uchicago.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.135.0.0",
+                    "end":   "128.135.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Chicago Medical Center",
+            "country": "US",
+            "domain": "uchospitals.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "165.68.0.0",
+                    "end":   "165.68.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Cincinnati",
+            "country": "US",
+            "domain": "uc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.137.0.0",
+                    "end":   "129.137.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Colorado",
+            "country": "US",
+            "domain": "colorado.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.138.0.0",
+                    "end":   "128.138.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Connecticut",
+            "country": "US",
+            "domain": "uconn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.99.0.0",
+                    "end":   "137.99.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Delaware",
+            "country": "US",
+            "domain": "udel.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.175.0.0",
+                    "end":   "128.175.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Florida",
+            "country": "US",
+            "domain": "ufl.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.227.0.0",
+                    "end":   "128.227.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Georgia",
+            "country": "US",
+            "domain": "uga.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.192.0.0",
+                    "end":   "128.192.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Guelph",
+            "country": "CA",
+            "domain": "uoguelph.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "131.104.0.0",
+                    "end":   "131.104.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Hawaii",
+            "country": "US",
+            "domain": "hawaii.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.171.0.0",
+                    "end":   "128.171.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Houston",
+            "country": "US",
+            "domain": "uh.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.7.0.0",
+                    "end":   "129.7.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Idaho",
+            "country": "US",
+            "domain": "uidaho.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.101.0.0",
+                    "end":   "129.101.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Illinois - AITS",
+            "country": "US",
+            "domain": "uillinois.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "64.22.176.0",
+                    "end":   "64.22.191.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Illinois at Chicago",
+            "country": "US",
+            "domain": "uic.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.248.0.0",
+                    "end":   "128.248.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Illinois at Urbana-Champaign",
+            "country": "US",
+            "domain": "illinois.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.17.0.0",
+                    "end":   "192.17.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Illinois Springfield",
+            "country": "US",
+            "domain": "uis.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.102.230.0",
+                    "end":   "192.102.230.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Iowa",
+            "country": "US",
+            "domain": "uiowa.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.255.0.0",
+                    "end":   "128.255.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2620:0:E50::",
+                    "end":   "2620:0:E50:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+            ]
+        },
+        {
+            "name" : "University of Kansas Medical Center",
+            "country": "US",
+            "domain": "kumc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "169.147.0.0",
+                    "end":   "169.147.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Kentucky",
+            "country": "US",
+            "domain": "uky.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.163.0.0",
+                    "end":   "128.163.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of La Verne",
+            "country": "US",
+            "domain": "laverne.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "50.57.21.136",
+                    "end":   "50.57.21.143"
+                }
+            ]
+        },
+        {
+            "name" : "University of Lethbridge",
+            "country": "CA",
+            "domain": "uleth.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "142.66.0.0",
+                    "end":   "142.66.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Louisville",
+            "country": "US",
+            "domain": "louisville.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "136.165.0.0",
+                    "end":   "136.165.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Maine System",
+            "country": "US",
+            "domain": "maine.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.111.0.0",
+                    "end":   "130.111.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2610:48::",
+                    "end":   "2610:48:FFFF:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+            ]
+        },
+        {
+            "name" : "University of Manitoba",
+            "country": "CA",
+            "domain": "umanitoba.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.179.0.0",
+                    "end":   "130.179.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Maryland Eastern Shore",
+            "country": "US",
+            "domain": "umes.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "131.118.0.0",
+                    "end":   "131.118.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Maryland, Baltimore",
+            "country": "US",
+            "domain": "umaryland.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.192.0.0",
+                    "end":   "134.192.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Maryland, Baltimore County",
+            "country": "US",
+            "domain": "umbc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.85.0.0",
+                    "end":   "130.85.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Maryland, College Park",
+            "country": "US",
+            "domain": "umd.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.8.0.0",
+                    "end":   "128.8.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Maryland, University College",
+            "country": "US",
+            "domain": "umuc.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "University of Massachusetts - President's Office",
+            "country": "US",
+            "domain": "umassp.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "69.16.0.0",
+                    "end":   "69.16.127.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Massachusetts Amherst",
+            "country": "US",
+            "domain": "umass.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.119.0.0",
+                    "end":   "128.119.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Massachusetts Lowell",
+            "country": "US",
+            "domain": "uml.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.63.0.0",
+                    "end":   "129.63.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Miami",
+            "country": "US",
+            "domain": "miami.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.171.0.0",
+                    "end":   "129.171.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Michigan",
+            "country": "US",
+            "domain": "umich.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "141.211.0.0",
+                    "end":   "141.211.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Minnesota",
+            "country": "US",
+            "domain": "umn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.84.0.0",
+                    "end":   "134.84.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Mississippi",
+            "country": "US",
+            "domain": "olemiss.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.74.0.0",
+                    "end":   "130.74.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Missouri - Kansas City",
+            "country": "US",
+            "domain": "umkc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.193.0.0",
+                    "end":   "134.193.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Missouri - St. Louis",
+            "country": "US",
+            "domain": "umsl.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.124.0.0",
+                    "end":   "134.124.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Nebraska at Kearney",
+            "country": "US",
+            "domain": "unk.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "144.216.0.0",
+                    "end":   "144.216.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Nebraska at Omaha",
+            "country": "US",
+            "domain": "unomaha.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.48.0.0",
+                    "end":   "137.48.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Nebraska - Lincoln",
+            "country": "US",
+            "domain": "unl.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.93.0.0",
+                    "end":   "129.93.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of North Carolina at Charlotte",
+            "country": "US",
+            "domain": "uncc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "152.15.0.0",
+                    "end":   "152.15.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of North Carolina at Greensboro",
+            "country": "US",
+            "domain": "uncg.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "152.13.0.0",
+                    "end":   "152.13.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of North Carolina School of the Arts",
+            "country": "US",
+            "domain": "uncsa.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.154.33.0",
+                    "end":   "192.154.33.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Northern Colorado",
+            "country": "US",
+            "domain": "unco.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "138.86.0.0",
+                    "end":   "138.86.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Northern Iowa",
+            "country": "US",
+            "domain": "uni.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.161.0.0",
+                    "end":   "134.161.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Notre Dame",
+            "country": "US",
+            "domain": "nd.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.74.0.0",
+                    "end":   "129.74.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Oklahoma",
+            "country": "US",
+            "domain": "ou.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "University of Oregon",
+            "country": "US",
+            "domain": "uoregon.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.223.0.0",
+                    "end":   "128.223.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2001:468:D00::",
+                    "end":   "2001:468:DFF:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+            ]
+        },
+        {
+            "name" : "University of Otago",
+            "country": "NZ",
+            "domain": "otago.ac.nz",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "139.80.0.0",
+                    "end":   "139.80.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Pennsylvania",
+            "country": "US",
+            "domain": "upenn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.91.0.0",
+                    "end":   "128.91.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Pennsylvania - Perelman School of Medicine",
+            "country": "US",
+            "domain": "uphs.upenn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "165.123.0.0",
+                    "end":   "165.123.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Pennsylvania - School of Arts and Sciences",
+            "country": "US",
+            "domain": "sas.upenn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.91.0.0",
+                    "end":   "130.91.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Pennsylvania - School of Engineering & Applied Science",
+            "country": "US",
+            "domain": "seas.upenn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "158.130.0.0",
+                    "end":   "158.130.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Pittsburgh",
+            "country": "US",
+            "domain": "pitt.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "136.142.0.0",
+                    "end":   "136.142.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Portland",
+            "country": "US",
+            "domain": "up.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "64.251.240.0",
+                    "end":   "64.251.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Rhode Island",
+            "country": "US",
+            "domain": "uri.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "131.128.0.0",
+                    "end":   "131.128.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of San Francisco",
+            "country": "US",
+            "domain": "usfca.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "University of Saskatchewan",
+            "country": "CA",
+            "domain": "usask.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.233.0.0",
+                    "end":   "128.233.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Scranton",
+            "country": "US",
+            "domain": "scranton.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.198.0.0",
+                    "end":   "134.198.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of South Carolina",
+            "country": "US",
+            "domain": "sc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.252.0.0",
+                    "end":   "129.252.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of South Florida",
+            "country": "US",
+            "domain": "usf.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "131.247.0.0",
+                    "end":   "131.247.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Southern California",
+            "country": "US",
+            "domain": "usc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.125.0.0",
+                    "end":   "128.125.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of St. Thomas",
+            "country": "US",
+            "domain": "stthom.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "University of Tennessee at Chattanooga",
+            "country": "US",
+            "domain": "utc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "150.182.0.0",
+                    "end":   "150.182.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Texas at Arlington",
+            "country": "US",
+            "domain": "uta.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.107.0.0",
+                    "end":   "129.107.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Texas at Austin",
+            "country": "US",
+            "domain": "utexas.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.83.0.0",
+                    "end":   "128.83.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of the Cumberlands",
+            "country": "US",
+            "domain": "ucumberlands.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.188.130.0",
+                    "end":   "192.188.130.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of the Pacific",
+            "country": "US",
+            "domain": "pacific.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "138.9.0.0",
+                    "end":   "138.9.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Toronto",
+            "country": "CA",
+            "domain": "utoronto.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "142.150.0.0",
+                    "end":   "142.150.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Tulsa",
+            "country": "US",
+            "domain": "utulsa.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.244.0.0",
+                    "end":   "129.244.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Utah",
+            "country": "US",
+            "domain": "utah.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "155.97.0.0",
+                    "end":   "155.97.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Vermont",
+            "country": "US",
+            "domain": "uvm.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "132.198.0.0",
+                    "end":   "132.198.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Victoria",
+            "country": "CA",
+            "domain": "uvic.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "142.104.0.0",
+                    "end":   "142.104.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Virginia",
+            "country": "US",
+            "domain": "virginia.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.143.0.0",
+                    "end":   "128.143.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Washington",
+            "country": "US",
+            "domain": "uw.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.95.0.0",
+                    "end":   "128.95.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Waterloo",
+            "country": "CA",
+            "domain": "uwaterloo.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.97.0.0",
+                    "end":   "129.97.255.255"
+                },
+                {
+                    "version": 6,
+                    "start": "2620:101:F000::",
+                    "end":   "2620:101:F001:FFFF:FFFF:FFFF:FFFF:FFFF"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Whitewater",
+            "country": "US",
+            "domain": "uww.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "140.146.0.0",
+                    "end":   "140.146.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin Colleges & Extension",
+            "country": "US",
+            "domain": "uwex.uwc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "143.235.0.0",
+                    "end":   "143.235.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin Oshkosh",
+            "country": "US",
+            "domain": "uwosh.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "141.233.0.0",
+                    "end":   "141.233.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin System Administration",
+            "country": "US",
+            "domain": "uwsa.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.104.0.0",
+                    "end":   "128.104.255.255"
+                },
+                {
+                    "version": 4,
+                    "start": "144.92.0.0",
+                    "end":   "144.92.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Eau Claire",
+            "country": "US",
+            "domain": "uwec.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.231.219.0",
+                    "end":   "192.231.219.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Green Bay",
+            "country": "US",
+            "domain": "uwgb.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "143.200.0.0",
+                    "end":   "143.200.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - La Crosse",
+            "country": "US",
+            "domain": "uwlax.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "138.49.0.0",
+                    "end":   "138.49.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Madison",
+            "country": "US",
+            "domain": "wisc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "144.92.0.0",
+                    "end":   "144.92.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Milwaukee",
+            "country": "US",
+            "domain": "uwm.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "208.93.208.0",
+                    "end":   "208.93.211.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Parkside",
+            "country": "US",
+            "domain": "uwp.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "131.210.0.0",
+                    "end":   "131.210.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Platteville",
+            "country": "US",
+            "domain": "uwplatt.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.104.0.0",
+                    "end":   "137.104.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - River Falls",
+            "country": "US",
+            "domain": "uwrf.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "139.225.0.0",
+                    "end":   "139.225.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Stevens Point",
+            "country": "US",
+            "domain": "uwsp.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "143.236.0.0",
+                    "end":   "143.236.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Stout",
+            "country": "US",
+            "domain": "uwstout.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "144.13.0.0",
+                    "end":   "144.13.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "University of Wisconsin - Superior",
+            "country": "US",
+            "domain": "uwsuper.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.81.0.0",
+                    "end":   "137.81.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "US Naval Postgraduate School",
+            "country": "US",
+            "domain": "nps.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "205.155.0.0",
+                    "end":   "205.155.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Utah State University",
+            "country": "US",
+            "domain": "usu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.123.0.0",
+                    "end":   "129.123.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Utah Valley University",
+            "country": "US",
+            "domain": "uvu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "161.28.0.0",
+                    "end":   "161.28.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Vanderbilt University",
+            "country": "US",
+            "domain": "vanderbilt.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "129.59.0.0",
+                    "end":   "129.59.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Vassar College",
+            "country": "US",
+            "domain": "vassar.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "143.229.0.0",
+                    "end":   "143.229.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Vermont State Colleges",
+            "country": "US",
+            "domain": "vsc.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "155.42.0.0",
+                    "end":   "155.42.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Victoria University of Wellington",
+            "country": "NZ",
+            "domain": "vuw.ac.nz",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.195.0.0",
+                    "end":   "130.195.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Villanova University",
+            "country": "US",
+            "domain": "villanova.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "153.104.0.0",
+                    "end":   "153.104.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Virginia Commonwealth University",
+            "country": "US",
+            "domain": "vcu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.172.0.0",
+                    "end":   "128.172.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Virginia State University",
+            "country": "US",
+            "domain": "vsu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "150.174.0.0",
+                    "end":   "150.174.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Virginia Tech",
+            "country": "US",
+            "domain": "vt.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "198.82.0.0",
+                    "end":   "198.82.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Washburn University",
+            "country": "US",
+            "domain": "washburn.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "198.252.8.0",
+                    "end":   "198.252.15.255"
+                }
+            ]
+        },
+        {
+            "name" : "Washington State University",
+            "country": "US",
+            "domain": "wsu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "134.121.0.0",
+                    "end":   "134.121.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Washington University in St. Louis",
+            "country": "US",
+            "domain": "wustl.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "128.252.0.0",
+                    "end":   "128.252.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Wayne State University",
+            "country": "US",
+            "domain": "wayne.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "141.217.0.0",
+                    "end":   "141.217.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Weber State University",
+            "country": "US",
+            "domain": "weber.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "Western Illinois University",
+            "country": "US",
+            "domain": "wiu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "143.43.128.0",
+                    "end":   "143.43.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Western Kentucky University",
+            "country": "US",
+            "domain": "wku.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "161.6.0.0",
+                    "end":   "161.6.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Western New England University",
+            "country": "US",
+            "domain": "wne.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "Western Washington University",
+            "country": "US",
+            "domain": "wwu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "140.160.0.0",
+                    "end":   "140.160.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Wheaton College",
+            "country": "US",
+            "domain": "wheaton.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "192.138.89.0",
+                    "end":   "192.138.89.255"
+                }
+            ]
+        },
+        {
+            "name" : "Whitman College",
+            "country": "US",
+            "domain": "whitman.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "199.89.174.0",
+                    "end":   "199.89.175.255"
+                }
+            ]
+        },
+        {
+            "name" : "Willamette University",
+            "country": "US",
+            "domain": "willamette.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "158.104.0.0",
+                    "end":   "158.104.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Williams College",
+            "country": "US",
+            "domain": "williams.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "137.165.0.0",
+                    "end":   "137.165.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Winona State University",
+            "country": "US",
+            "domain": "winona.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "199.17.0.0",
+                    "end":   "199.17.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Wittenberg University",
+            "country": "US",
+            "domain": "wittenberg.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "136.227.0.0",
+                    "end":   "136.227.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Wofford College",
+            "country": "US",
+            "domain": "wofford.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "Worcester Polytechnic Institute",
+            "country": "US",
+            "domain": "wpi.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.215.0.0",
+                    "end":   "130.215.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Xavier University",
+            "country": "US",
+            "domain": "xavier.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "198.30.0.0",
+                    "end":   "198.30.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Yale University",
+            "country": "US",
+            "domain": "yale.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.132.0.0",
+                    "end":   "130.132.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "York College of Pennsylvania",
+            "country": "US",
+            "domain": "ycp.edu",
+            "networks": [ ]
+        },
+        {
+            "name" : "York University",
+            "country": "CA",
+            "domain": "yorku.ca",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "130.63.0.0",
+                    "end":   "130.63.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Youngstown State University",
+            "country": "US",
+            "domain": "ysu.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "150.134.0.0",
+                    "end":   "150.134.255.255"
+                }
+            ]
+        },
+        {
+            "name" : "Algonquin College",
+            "country": "CA",
+            "domain": "algonquincollege.com",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "205.211.26.0",
+                    "end":   "205.211.78.255"
+                }
+            ]
+        },
+        {
+            "name" : "Charter Oak State College",
+            "country": "US",
+            "domain": "charteroak.edu",
+            "networks": [
+                {
+                    "version": 4,
+                    "start": "74.123.180.0",
+                    "end":   "74.123.183.255"
+                }
+            ]
+        },
     ]
 }
